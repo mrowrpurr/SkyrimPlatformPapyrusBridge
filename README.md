@@ -1,3 +1,7 @@
+## 🚚🚚 ~ Moved to https://github.com/skyrim-platform/papyrus-bridge ~ 🚚🚚
+
+---
+
 # Papyrus <--> Skyrim Platform Bridge
 
 > Communicate _easily_ between Papyrus and Skyrim Platform
