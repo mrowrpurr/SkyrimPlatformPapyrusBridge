@@ -1,4 +1,4 @@
-## 🚚🚚 ~ Moved to https://github.com/skyrim-platform/papyrus-bridge ~ 🚚🚚
+## 🚚 ~ Moved to https://github.com/skyrim-platform/papyrus-bridge ~ 🚚
 
 ---
 
